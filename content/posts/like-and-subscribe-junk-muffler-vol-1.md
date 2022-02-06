@@ -10,9 +10,9 @@ categories:
 
 {{< youtube SVsXQSn3n1Y >}}
 
-I'm super-hype to announce the first Junk Muffler album ever! Hopefully it's the first of many more to come. It took me a long time to come up with a collection I was happy with. I hope you enjoy listening to it as much as I enjoyed creating it. 
+I'm super-hype to announce the first Junk Muffler album ever! Hopefully it's the first of many more to come. It took me a long time to come up with a collection I was happy with. I hope you enjoy listening to it as much as I enjoyed creating it.
 
-You can find it on all major streaming services. Find yours on the list below and use the link to start blasting this shit through your headphones!
+You can find it on all major streaming services. Find yours on the list below and use the link to start blasting this through your headphones!
 
 {{< style "font-size: 1.3em; font-weight: bold;" >}}
 
@@ -30,6 +30,6 @@ You can find it on all major streaming services. Find yours on the list below an
 
 {{< /style >}}
 
-You can also find the songs on TikTok, Instagram, and Facebook. I just can't link to them. But if you wanna twerk to a JM Jam? Be my guest. 
+You can also find the songs on TikTok, Instagram, and Facebook. I just can't link to them. But if you wanna twerk to a JM Jam? Be my guest.
 
 Thanks so much to all the folks who provided so much encouragement along the way! This album wouldn't have been possible without you!

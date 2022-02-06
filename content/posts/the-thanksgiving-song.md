@@ -15,11 +15,11 @@ Has it seriously been eight months since I released a song? That doesn't seem to
 
 Wow...
 
-To be fair, a lot of shit has happened in my life. I'll hopefully share more about it soon. I may make the musical equivelant of shitposts, but I bust my ass on every song. It takes a lot out of me, even though I love it.
+To be fair, a lot of stuff has happened in my life. I'll hopefully share more about it soon. I may make the musical equivelant of candy corn, but I bust my butt on every song. It takes a lot out of me, even though I love it.
 
 And honestly? The past eight months I haven't had a lot to give.
 
-None of that though... Right now? I want to show gratitude. I'm thankful that despite all the bullshit I've been through, I've come through relatively intact. In many ways, maybe a bit better.
+None of that though... Right now? I want to show gratitude. I'm thankful that despite all the stuff I've been through, I've come through relatively intact. In many ways, maybe a bit better.
 
 The holidays matter to me in ways that I can't quite describe. For years I refused to leave the house on Christmas. Thanksgiving and Christmas were the two times a year everyone had to be nice to each other.
 

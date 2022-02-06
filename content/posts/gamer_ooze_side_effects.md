@@ -30,4 +30,4 @@ Soon the abyss of space will fade away and you’ll find yourself standing atop 
 You look into the old man’s eyes and a million questions spring to your lips. You contemplate what to ask. Finally you settle for asking “What wisdom do you have for me, oh wise one?”
 
 He looks back at you and simply says…  
-“[Like and subscribe](https://www.youtube.com/channel/UCz6hXeWw6SNTHwWPV6pltgg) motherfucker… [Like and subscribe](https://www.youtube.com/channel/UCz6hXeWw6SNTHwWPV6pltgg)…”
+“[Like and subscribe](https://www.youtube.com/channel/UCz6hXeWw6SNTHwWPV6pltgg) y'all... [Like and subscribe](https://www.youtube.com/channel/UCz6hXeWw6SNTHwWPV6pltgg)…”
