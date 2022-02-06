@@ -28,15 +28,6 @@ theme = "uBlogger"
         prefix = "https://www.youtube.com/channel/"
         # content hovering on the icon
         title = "YouTube"
-    [params.social.Soundcloud]
-      # weight when arranging icons (the greater the weight, the later the icon is positioned)
-      weight = 2
-      # your social ID
-      id = "junkmuffler"
-      # prefix of your social link
-      prefix = "https://www.soundcloud.com/"
-      # content hovering on the icon
-      title = "Soundcloud"
     [params.social.Twitter]
       # weight when arranging icons (the greater the weight, the later the icon is positioned)
       weight = 3
@@ -114,12 +105,6 @@ theme = "uBlogger"
         title = "YouTube"
         weight = 4
       [[languages.en.menu.main]]
-        identifier = "soundcloud"
-        pre = "<i class='fab fa-soundcloud fa-fw'></i>"
-        url = "https://soundcloud.com/junkmuffler"
-        title = "Sound Cloud"
-        weight = 5
-      [[languages.en.menu.main]]
         identifier = "twitter"
         pre = "<i class='fab fa-twitter fa-fw'></i>"
         url = "https://twitter.com/JunkMuffler"
@@ -127,7 +112,7 @@ theme = "uBlogger"
         weight = 6
     [languages.en.params]
       # site description
-      description = "Comedian, musician, and purveyor of questionable novelty songs. Also occasional blogger and tea enthusiast."
+      description = "Maker of questionable art, music, and random stuff."
       [languages.en.params.app]
         # whether to omit favicon resource links
         noFavicon = false
