@@ -17,8 +17,8 @@
             <a href="https://junkmuffler.bandcamp.com/" style="color: #fa3840; font-weight: bold;">Bandcamp</a> |
             <a href="https://soundcloud.com/junkmuffler" style="color: #fa3840; font-weight: bold;">SoundCloud</a> 
         </center>
-        {{- else if eq $taxonomy "tag" -}}
-            <i class="fas fa-tag fa-fw"></i>&nbsp;{{ .Title }}
+        {{- else if eq .Title "News" -}}
+        <img src="/images/news_banner.png" width="100%" />
         {{- else -}}
             {{- printf "%v - %v" (T $taxonomy | default $taxonomy) .Title -}}
         {{- end -}}
