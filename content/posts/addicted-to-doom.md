@@ -4,6 +4,8 @@ date: 2021-01-28T21:05:56-05:00
 draft: false
 featuredImagePreview: "/images/posts/2021-01-28-Addicted-to-Doom/featured.png"
 theme: classic
+categories:
+- Music
 ---
 
 {{< youtube 8ulSWcbhRgE >}}

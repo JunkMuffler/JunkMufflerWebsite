@@ -4,6 +4,8 @@ date: 2021-12-21T20:00:17-04:00
 draft: false
 featuredImagePreview: "/images/posts/2021-12-21-cparty/featured.png"
 theme: classic
+categories:
+- Music
 ---
 
 {{< youtube cGAcZI4BpE0 >}}

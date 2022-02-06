@@ -4,6 +4,8 @@ date: 2021-01-13T23:26:11-05:00
 draft: false
 featuredImagePreview: "/images/posts/2021-01-13-The-Haunted-Toilet/featured.jpg"
 theme: classic
+categories:
+- Music
 ---
 
 {{< youtube WEdtHk6XSQs >}} 

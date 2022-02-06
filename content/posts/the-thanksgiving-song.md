@@ -4,6 +4,8 @@ date: 2021-11-06T22:40:17-04:00
 draft: false
 featuredImagePreview: "/images/posts/2021-11-06-thanksgiving/featured.jpg"
 theme: classic
+categories:
+- Music
 ---
 
 {{< youtube kd924ivo8DQ >}}

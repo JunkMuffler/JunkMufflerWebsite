@@ -4,6 +4,8 @@ date: 2021-12-22T20:00:17-04:00
 draft: false
 featuredImagePreview: "/images/posts/2021-12-22-warning-bells/featured.png"
 theme: classic
+categories:
+- Music
 ---
 
 {{< youtube zrzH5b6Twac >}}

@@ -4,6 +4,8 @@ date: 2021-02-19T14:09:51-05:00
 draft: false
 featuredImagePreview: "/images/posts/2021-02-19-Counting-Calories/featured.png"
 theme: classic
+categories:
+- Music
 ---
 
 {{< youtube yi5znLgriAw >}} 

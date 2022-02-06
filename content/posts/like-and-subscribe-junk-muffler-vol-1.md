@@ -3,6 +3,8 @@ title: "Like and Subscribe: Junk Muffler Vol. 1"
 date: 2021-03-12T14:23:38-05:00
 draft: false
 featuredImagePreview: "/images/posts/2021-03-13-Album/featured.png"
+categories:
+- Announcements
 ---
 
 {{< youtube SVsXQSn3n1Y >}}

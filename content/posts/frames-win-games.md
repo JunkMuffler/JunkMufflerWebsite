@@ -4,6 +4,8 @@ date: 2021-03-22T18:24:17-04:00
 draft: false
 featuredImagePreview: "/images/posts/2021-03-22-frames/featured.jpg"
 theme: classic
+categories:
+- Music
 ---
 
 {{< youtube uzENihGGNBA >}} 

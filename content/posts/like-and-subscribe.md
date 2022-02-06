@@ -4,6 +4,8 @@ date: 2021-02-12T18:03:19-05:00
 draft: false
 featuredImagePreview: "/images/posts/2021-02-12-Like-Subscribe/featured.png"
 theme: classic
+categories:
+- Music
 ---
 
 {{< youtube zuwOHl7glIM >}} 

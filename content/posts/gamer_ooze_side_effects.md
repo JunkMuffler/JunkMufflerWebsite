@@ -4,6 +4,8 @@ date: 2021-01-10T12:48:48-05:00
 draft: false
 featuredImagePreview: "/images/posts/gamer_ooze-2021-01-10/featured.png"
 theme: classic
+categories:
+- Music
 ---
 
 {{< youtube ycMzlNXK2rU >}}

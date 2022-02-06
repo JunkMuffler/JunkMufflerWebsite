@@ -4,6 +4,8 @@ date: 2021-02-03T20:00:21-05:00
 draft: false
 featuredImagePreview: "/images/posts/2021-02-03-Compost-Lunch/featured.png"
 theme: classic
+categories:
+- Music
 ---
 
 {{< youtube Svlb0fRcl0Y >}}

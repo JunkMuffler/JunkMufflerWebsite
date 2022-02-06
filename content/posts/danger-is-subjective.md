@@ -4,6 +4,8 @@ date: 2021-12-09T23:00:17-04:00
 draft: false
 featuredImagePreview: "/images/posts/2021-12-09-danger/featured.png"
 theme: classic
+categories:
+- Music
 ---
 
 {{< youtube Gfefe9PcZ6E >}}
