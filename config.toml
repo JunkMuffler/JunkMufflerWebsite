@@ -81,21 +81,32 @@ theme = "uBlogger"
         # you can add extra information after the name (HTML format is supported), such as icons
         post = ""
         name = "Music"
-        url = "/music/"
+        url = "/categories/music/"
         # title will be shown when you hover on this menu link
         title = ""
         weight = 1
+      [[languages.en.menu.main]]
+        identifier = "news"
+        # you can add extra information before the name (HTML format is supported), such as icons
+        pre = ""
+        # you can add extra information after the name (HTML format is supported), such as icons
+        post = ""
+        name = "News"
+        url = "/categories/news/"
+        # title will be shown when you hover on this menu link
+        title = ""
+        weight = 2
       [[languages.en.menu.main]]
         identifier = "posts"
         # you can add extra information before the name (HTML format is supported), such as icons
         pre = ""
         # you can add extra information after the name (HTML format is supported), such as icons
         post = ""
-        name = "Posts"
+        name = "All Posts"
         url = "/posts/"
         # title will be shown when you hover on this menu link
         title = ""
-        weight = 1
+        weight = 3
       [[languages.en.menu.main]]
         identifier = "youtube"
         pre = "<i class='fab fa-youtube fa-fw'></i>"
