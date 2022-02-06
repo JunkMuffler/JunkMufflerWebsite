@@ -4,6 +4,7 @@ date: 2021-11-06T22:40:17-04:00
 draft: false
 featuredImagePreview: "/images/posts/2021-11-06-thanksgiving/featured.jpg"
 theme: classic
+description: Thanksgiving is a time for family, gratitude, and getting a giant 60" television for the cheapest price possible. Here's a song to celebrate the day.
 categories:
 - Music
 ---

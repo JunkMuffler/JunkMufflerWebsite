@@ -3,6 +3,7 @@ title: "Like and Subscribe: Junk Muffler Vol. 1"
 date: 2021-03-12T14:23:38-05:00
 draft: false
 featuredImagePreview: "/images/posts/2021-03-13-Album/featured.png"
+description: I'm so excited to release my first album! Like and Subscribe Junk Muffler Vol.1 is available on all major streaming services now!
 categories:
 - News
 ---

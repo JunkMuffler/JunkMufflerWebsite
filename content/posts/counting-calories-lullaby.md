@@ -4,6 +4,7 @@ date: 2021-02-19T14:09:51-05:00
 draft: false
 featuredImagePreview: "/images/posts/2021-02-19-Counting-Calories/featured.png"
 theme: classic
+description: 2020 was a rough year for everyone. I wrote this song about all of my favorite things. This is what I think about at night to calm myself down.
 categories:
 - Music
 ---

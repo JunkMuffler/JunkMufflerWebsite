@@ -4,6 +4,7 @@ date: 2021-03-22T18:24:17-04:00
 draft: false
 featuredImagePreview: "/images/posts/2021-03-22-frames/featured.jpg"
 theme: classic
+description: The ongoing GPU shortage is annoying for everyone. Here's a song about when I waited at Microcenter for 15 hours in the freezing cold for a 3080.
 categories:
 - Music
 ---

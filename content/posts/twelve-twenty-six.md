@@ -4,6 +4,7 @@ date: 2021-12-21T20:00:17-04:00
 draft: false
 featuredImagePreview: "/images/posts/2021-12-21-cparty/featured.png"
 theme: classic
+description: What does Santa do to unwind after a stressful night of delivering toys all over the world? Here's a song about the north pole after party.
 categories:
 - Music
 ---

@@ -4,6 +4,7 @@ date: 2021-02-12T18:03:19-05:00
 draft: false
 featuredImagePreview: "/images/posts/2021-02-12-Like-Subscribe/featured.png"
 theme: classic
+description: Every YouTuber has one goal in life... For you to Like and Subscribe. I'm so obsessed with this goal that I wrote a song about if for my listeners.
 categories:
 - Music
 ---

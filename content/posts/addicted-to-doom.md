@@ -4,6 +4,7 @@ date: 2021-01-28T21:05:56-05:00
 draft: false
 featuredImagePreview: "/images/posts/2021-01-28-Addicted-to-Doom/featured.png"
 theme: classic
+description: I wrote a song about the modern world's obsession with doom scrolling. What's my potato chip flavor? Who's my princess? Come inside to discover more.
 categories:
 - Music
 ---

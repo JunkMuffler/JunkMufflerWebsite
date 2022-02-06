@@ -4,6 +4,7 @@ date: 2021-12-09T23:00:17-04:00
 draft: false
 featuredImagePreview: "/images/posts/2021-12-09-danger/featured.png"
 theme: classic
+description: Is this song a fart joke or a poop joke? It's a little of both. As a man who's on the wrong side of 35 I've learned to be very, very careful...
 categories:
 - Music
 ---

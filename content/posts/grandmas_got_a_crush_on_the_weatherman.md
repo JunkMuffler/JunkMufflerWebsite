@@ -4,6 +4,7 @@ date: 2021-01-18T20:22:05-05:00
 draft: false
 featuredImagePreview: "/images/posts/2021-01-18-Grandma/featured.jpg"
 theme: classic
+description: My grandmother was obsessed with our local TV weatherman. Here's a song about her crushing like a school girl on this poor dude.
 categories:
 - Music
 ---

@@ -4,6 +4,7 @@ date: 2021-01-10T12:48:48-05:00
 draft: false
 featuredImagePreview: "/images/posts/gamer_ooze-2021-01-10/featured.png"
 theme: classic
+description: Energy drink culture has always fascinated me. Like... What the heck is in this thing? Why are we drinking it? Does it actually provide energy?
 categories:
 - Music
 ---

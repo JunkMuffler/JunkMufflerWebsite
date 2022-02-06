@@ -4,6 +4,7 @@ date: 2021-02-03T20:00:21-05:00
 draft: false
 featuredImagePreview: "/images/posts/2021-02-03-Compost-Lunch/featured.png"
 theme: classic
+description: I wrote this song based on the true story of when I tried to microwave compost and eat it for lunch. Mrs. Muffler still laughs hard about it.
 categories:
 - Music
 ---

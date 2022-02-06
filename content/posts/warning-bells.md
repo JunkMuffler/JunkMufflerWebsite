@@ -4,6 +4,7 @@ date: 2021-12-22T20:00:17-04:00
 draft: false
 featuredImagePreview: "/images/posts/2021-12-22-warning-bells/featured.png"
 theme: classic
+description: I wanted to write a Christmas song with timeless advice that would transcend the ages. After much soul searching, I think I finally found something.
 categories:
 - Music
 ---
