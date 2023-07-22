@@ -1,0 +1,73 @@
+// ==============================
+// Custom style
+// ==============================
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+.links {
+    a * {
+        padding: .3rem;
+    }
+}
+
+.header-logo {
+    color: #fff;
+    font-family: "Staatliches";
+    font-size: 1.8rem;
+}
+
+.header-logo:hover {
+    color: #DCDCDC;
+}
+
+.theme-switch {
+    display: none;
+}
+
+.toc {
+    display: none!important;
+}
+
+a.menu-item, a.menu-item:active, a.menu-item:visited, #search-toggle-desktop  {
+    color: #ffffff!important;
+    opacity: 100;
+}
+
+a.menu-item:hover, #search-toggle-desktop {
+    color: #DCDCDC;
+}
+
+.open .search input, .search.mobile input {
+    background-color: #FFF;
+}
+
+.fixed-button {
+    color: #ffffff;
+}
+
+.fixed-button:hover, .fixed-button:active {
+    color: #ffffff;
+}
+
+.home-profile img {
+    width: 100%; 
+    border-radius: 10px;
+    -webkit-box-shadow: 2px 4px 12px 0px rgba(0,0,0,0.39);
+    -moz-box-shadow: 2px 4px 12px 0px rgba(0,0,0,0.39);
+    box-shadow: 2px 4px 12px 0px rgba(0,0,0,0.39);
+}
+
+#header-desktop .header-wrapper .menu .menu-item.delimiter {
+    border-left: 1.5px solid #ffffff;
+}
+
+#header-mobile .header-container .header-wrapper .menu-toggle span {
+    background: #ffffff;
+}
+
+.theme-switch {
+    display: none!important;
+}
+
+h1 {
+    line-height: 1.5;
+}
